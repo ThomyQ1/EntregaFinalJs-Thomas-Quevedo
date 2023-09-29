@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo Anorak Hood",
+        "imagen": "./img/buzos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo Brush Crew",
+        "imagen": "./img/buzos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo Vertical Zip Hood",
+        "imagen": "./img/buzos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo Ranger Crew",
+        "imagen": "./img/buzos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Abrigo Zip Hood",
+        "imagen": "./img/buzos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Batman vs Joker",
+        "imagen": "./img/remeras/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Black Hole Sun",
+        "imagen": "./img/remeras/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Corazon Delator",
+        "imagen": "./img/remeras/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Hawkins PD",
+        "imagen": "./img/remeras/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Let There Be Rock",
+        "imagen": "./img/remeras/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Nemesis",
+        "imagen": "./img/remeras/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Nevermind",
+        "imagen": "./img/remeras/07.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Rage",
+        "imagen": "./img/remeras/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Jean Owen Skinny Wash",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Jogging Sendai Black",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Jogging Sendai Blue",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalon Big Chino Black",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 32999
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalon Big Chino Cargo Black",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 40000
+    }
+]
